@@ -1,0 +1,33 @@
+#this method will return the sum of two integers#
+
+Start
+# puts - will prompt the user to enter the first integers
+# num1 gets.to_i - will capture the user response and turn into an integer
+# puts - prompt the user to enter the second integer
+# num 2 gets.to_i - will capture the second input and mutate to integer
+
+# assign a new variable sum that is the first and second integers 
+# print the value of sum ot the screen
+END
+
+#this method will take an array of strings and return a string that is all those strings concatenated#
+
+Start
+#assumes the array is already stored into a variable
+# could use the #map or #each methods to iterate through the array
+# with each element of the array, could use #to_s.join()
+# print out the concatenated string 
+#end
+
+#this method will take an array of integers and return a new array with every other element#
+
+Start
+#assign the array to a variable
+#assign another variable with an empty array
+#iterate through the array with some method like each or map
+#reference the iteration to the arrays index number 
+# shovel the associated index numbers value into new array
+#print new array
+# END
+
+
